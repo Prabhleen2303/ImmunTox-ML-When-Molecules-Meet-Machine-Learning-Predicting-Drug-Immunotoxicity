@@ -1,0 +1,34 @@
+{
+    "Project Name": "Research-Grade Immunotoxicity Prediction Pipeline",
+    "Generated On": "2026-07-18 23:28:48",
+    "Python Version": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "Operating System": "Windows-10-10.0.26200-SP0",
+    "PyTorch Version": "2.12.1+cu126",
+    "CUDA Available": true,
+    "Device": "GPU",
+    "Random Seed": 42,
+    "Number of Molecules": 7823,
+    "Number of Endpoints": 12,
+    "Endpoints": [
+        "NR-AR",
+        "NR-AR-LBD",
+        "NR-AhR",
+        "NR-Aromatase",
+        "NR-ER",
+        "NR-ER-LBD",
+        "NR-PPAR-gamma",
+        "SR-ARE",
+        "SR-ATAD5",
+        "SR-HSE",
+        "SR-MMP",
+        "SR-p53"
+    ],
+    "Models Trained": [
+        "Random Forest",
+        "XGBoost",
+        "CatBoost",
+        "Deep Neural Network",
+        "GINE",
+        "Weighted Ensemble"
+    ]
+}

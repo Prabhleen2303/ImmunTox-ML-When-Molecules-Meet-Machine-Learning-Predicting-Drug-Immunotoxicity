@@ -1,0 +1,15 @@
+Category,Value
+Best Overall Model,Ensemble
+Runner-Up,Random Forest
+Best Descriptor Model,Random Forest
+Best Graph Model,GNN (GINE)
+Best Endpoint,SR-MMP
+Hardest Endpoint,NR-PPAR-gamma
+Number of Endpoints,12
+Number of Models,6
+Average ROC-AUC,0.8643
+Average PR-AUC,0.5442
+Average MCC,0.4952
+Average F1,0.5073
+Hardware,GPU
+Date,18-07-2026

@@ -1,0 +1,16 @@
+Morgan_Bit,Mean_Abs_SHAP,Example_SMILES,Center_Atom_Index,Radius,Image_Path
+389,0.03,CCN1C(=O)NC(c2ccccc2)C1=O,10,2,figures/toxicophore_bit_389.svg
+519,0.0295,CC[C@]1(O)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3CC[C@@]21C,6,1,figures/toxicophore_bit_519.svg
+80,0.0266,CCOc1ccc2nc(S(N)(=O)=O)sc2c1,1,0,figures/toxicophore_bit_80.svg
+745,0.02488,COc1cc(O)cc(O)c1,4,1,figures/toxicophore_bit_745.svg
+1313,0.02297,Oc1ccc2c(c1)OC[C@@H](N1CCC(O)(c3ccc(F)cc3)CC1)[C@H]2O,2,2,figures/toxicophore_bit_1313.svg
+875,0.0222,CCOc1ccc2nc(S(N)(=O)=O)sc2c1,15,1,figures/toxicophore_bit_875.svg
+1602,0.01991,O=C(O)Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1,14,1,figures/toxicophore_bit_1602.svg
+1603,0.01851,CCN(CC)C(=O)c1cccnc1,11,1,figures/toxicophore_bit_1603.svg
+1088,0.01812,CCN1C(=O)NC(c2ccccc2)C1=O,9,1,figures/toxicophore_bit_1088.svg
+1873,0.01613,CCOc1ccc2nc(S(N)(=O)=O)sc2c1,4,0,figures/toxicophore_bit_1873.svg
+1199,0.01328,CCN1C(=O)NC(c2ccccc2)C1=O,9,2,figures/toxicophore_bit_1199.svg
+1,0.01218,CCCN(CC)C(CC)C(=O)Nc1c(C)cccc1C,6,0,figures/toxicophore_bit_1.svg
+1168,0.01194,Nc1ccc(/N=N/c2ccccc2)cc1,2,2,figures/toxicophore_bit_1168.svg
+667,0.01168,CCCCNC(=S)NCCCC,3,1,figures/toxicophore_bit_667.svg
+960,0.01155,Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1,4,2,figures/toxicophore_bit_960.svg
