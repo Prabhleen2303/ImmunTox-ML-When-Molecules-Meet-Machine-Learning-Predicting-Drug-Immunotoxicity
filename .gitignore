@@ -1,0 +1,15 @@
+# Trained models
+deployment/models/
+saved_models/
+
+# Model files
+*.pkl
+*.pt
+*.joblib
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
